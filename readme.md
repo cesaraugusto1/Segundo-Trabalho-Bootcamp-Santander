@@ -1,4 +1,4 @@
-##Olá##
+## Olá ##
 
 ### Seja Bem vindo! ###
 
@@ -11,6 +11,6 @@
 ## do perfil de Gabriela professora da Plataforma DIO, ##
 ## adaptada ao meu nome de usuário do Instagram ##
 
-# Esse trabalho é um requito do Programa BootCamp do Santander#
+# Esse trabalho é um requito do Programa BootCamp do Santander #
 # Ministrado pela plataforma DIO! ##
 
